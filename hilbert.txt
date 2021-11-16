@@ -1,0 +1,32 @@
+determinant of the 1x1 Hilbert matrix = 1
+determinant of the 2x2 Hilbert matrix = 0.0833333333333333
+determinant of the 3x3 Hilbert matrix = 0.000462962962962958
+determinant of the 4x4 Hilbert matrix = 1.65343915345742e-07
+determinant of the 5x5 Hilbert matrix = 3.74929513248981e-12
+determinant of the 6x6 Hilbert matrix = 5.36729988665638e-18
+determinant of the 7x7 Hilbert matrix = 4.83580260882755e-25
+determinant of the 8x8 Hilbert matrix = 2.73705000867393e-33
+determinant of the 9x9 Hilbert matrix = 9.72025647771838e-43
+determinant of the 10x10 Hilbert matrix = 2.16421462730201e-53
+determinant of the 11x11 Hilbert matrix = 3.01706586535993e-65
+determinant of the 12x12 Hilbert matrix = 2.55055473678925e-78
+determinant of the 13x13 Hilbert matrix = 2.45182398250271e-92
+determinant of the 14x14 Hilbert matrix = -2.38717408503275e-106
+determinant of the 15x15 Hilbert matrix = -2.14918937172311e-120
+determinant of the 16x16 Hilbert matrix = 5.92632773631763e-136
+determinant of the 17x17 Hilbert matrix = 7.57198532642462e-150
+determinant of the 18x18 Hilbert matrix = -1.59778189359931e-165
+determinant of the 19x19 Hilbert matrix = -1.96713734382253e-180
+determinant of the 20x20 Hilbert matrix = -4.0715860747469e-196
+determinant of the 21x21 Hilbert matrix = -5.25457391358863e-211
+determinant of the 22x22 Hilbert matrix = 8.62413925639932e-227
+determinant of the 23x23 Hilbert matrix = 3.5048838417967e-241
+determinant of the 24x24 Hilbert matrix = 2.1653515462427e-257
+determinant of the 25x25 Hilbert matrix = 2.65516062893822e-272
+determinant of the 26x26 Hilbert matrix = 1.80520058107515e-288
+determinant of the 27x27 Hilbert matrix = 5.62106338562668e-304
+determinant of the 28x28 Hilbert matrix = -1.63832168160957e-320
+determinant of the 29x29 Hilbert matrix = -0
+
+Could not calculate the determinant of the 29x29 Hilbert matrix.
+Therefore, the largest Hilbert matrix that I can calculate the determinant of is 28x28
